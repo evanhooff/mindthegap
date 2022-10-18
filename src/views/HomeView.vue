@@ -1,9 +1,17 @@
 <script setup>
-import TheWelcome from "../components/TheWelcome.vue";
+// import TheWelcome from "../components/TheWelcome.vue";
 </script>
 
 <template>
-  <main>
-    <TheWelcome />
+  <main class="main">
+    Under construction...
+    <!-- <TheWelcome /> -->
   </main>
 </template>
+
+<style>
+.main {
+  display: flex;
+  align-items: center;
+}
+</style>
